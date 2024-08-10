@@ -38,7 +38,7 @@
     </div>
     <div id="main-content">
         <h2>Dados Pessoais</h2>
-        <img id="profile-image" src="[caminho_para_a_sua_imagem.jpg](https://files.tecnoblog.net/wp-content/uploads/2019/02/belchior-fotografia-3x4-700x390.jpg)" alt="Foto de Perfil">
+        <img id="profile-image" src="https://files.tecnoblog.net/wp-content/uploads/2019/02/belchior-fotografia-3x4-700x390.jpg" alt="Foto de Perfil">
         <p>Nome: Seu Nome</p>
         <p>E-mail: seuemail@example.com</p>
         <p>Telefone: (123) 456-7890</p>
