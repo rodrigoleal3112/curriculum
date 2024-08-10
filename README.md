@@ -39,9 +39,9 @@
     <div id="main-content">
         <h2>Dados Pessoais</h2>
         <img id="profile-image" src="https://files.tecnoblog.net/wp-content/uploads/2019/02/belchior-fotografia-3x4-700x390.jpg" alt="Foto de Perfil">
-        <p>Nome: Seu Nome</p>
-        <p>E-mail: seuemail@example.com</p>
-        <p>Telefone: (123) 456-7890</p>
+        <p>Nome: Rodrigo </p>
+        <p>E-mail: rodrigo.leal@aluno.fmpsc.edu.br</p>
+        <p>Telefone: (48) 99191-4218</p>
         
         <h2>Experiência Profissional</h2>
         <p>Cargo: Nome do Cargo</p>
