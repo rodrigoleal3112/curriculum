@@ -39,7 +39,7 @@
     <div id="main-content">
         <h2>Dados Pessoais</h2>
         <img id="profile-image" src="https://files.tecnoblog.net/wp-content/uploads/2019/02/belchior-fotografia-3x4-700x390.jpg" alt="Foto de Perfil">
-        <p>Nome: Rodrigo </p>
+        <p>Nome: Rodrigo </p>3
         <p>E-mail: rodrigo.leal@aluno.fmpsc.edu.br</p>
         <p>Telefone: (48) 99191-4218</p>
         
