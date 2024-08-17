@@ -48,9 +48,9 @@
         <p>Empresa: Nome da Empresa</p>
         <p>Descrição: Descrição das responsabilidades e realizações no cargo.</p>
         
-        <h2>Formação Acadêmica</h2>
-        <p>Curso: Nome do Curso</p>
-        <p>Instituição: Nome da Instituição</p>
+        <h2>Formação Acadêmica</1ªfase ADS>
+        <p>Curso: Análise e Desenvolvimento de Sistemas</p>
+        <p>Instituição:FMP</p>
         <p>Ano de Conclusão: 20XX</p>
     </div>
 </body>
